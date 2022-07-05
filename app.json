@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "coinList",
+    "slug": "coinList",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "coinList"
+}
